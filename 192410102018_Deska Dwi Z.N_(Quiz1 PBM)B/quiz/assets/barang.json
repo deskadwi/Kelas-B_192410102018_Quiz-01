@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Matcha",
+    "price": 250000,
+    "image": "images/matcha.jfif",
+    "jumlah": 2,
+    "deskripsi": "Matchalatte"
+  },
+  {
+    "name": "Coklat",
+    "price": 250000,
+    "image": "images/coklat.jpg",
+    "jumlah": 2,
+    "deskripsi": "Minuman coklat"
+  },
+  {
+    "name": "Taro",
+    "price": 650000,
+    "image": "images/taro.jfif",
+    "jumlah": 2,
+    "deskripsi": "Minuman Taro"
+  }
+]
